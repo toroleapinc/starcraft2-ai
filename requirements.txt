@@ -1,0 +1,5 @@
+pysc2>=2.0
+torch>=1.0
+numpy>=1.14
+matplotlib>=2.2
+absl-py>=0.2
