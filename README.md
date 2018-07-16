@@ -10,3 +10,8 @@ python train.py --map MoveToBeacon --episodes 3000
 ```
 
 Requires StarCraft II installed + PySC2.
+
+## Results
+
+MoveToBeacon: avg reward ~26 after 2000 episodes
+CollectMineralShards: avg reward ~18 after 3000 episodes (still improving)
